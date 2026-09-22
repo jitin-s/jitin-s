@@ -1,5 +1,5 @@
 <h1>
-  Hi there, I'm <strong>Jitin Sain</strong> 👋
+  Hi there, I'm <strong>Jitin</strong> 👋
 </h1>
 
 🚀 About Me
